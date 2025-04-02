@@ -56,8 +56,8 @@
 ## Запуск проекта
 
 ```bash
-git clone https://github.com/yourusername/buggy-calculator.git
-cd buggy-calculator
+git clone https://github.com/Didcvee/LR-2-01.04.2025.git
+cd LR-2-01.04.2025
 dotnet run
 ```
 
